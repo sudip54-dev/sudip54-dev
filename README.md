@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 I am a full-stack developer 👨‍💻 experienced with the development and maintenance of web applications, microservices, and microfrontends.
-- I have worked with HTML, CSS, JavaScript, TypeScript, Node, and Angular at the frontend.
+- I have worked with HTML, CSS, JavaScript, TypeScript, Node and Angular at the frontend.
 - I have worked with Java, Spring Boot, Maven, REST API, Swagger/OpenAPI, etc. at the backend.
-- I have worked with SQL, MySQL, MongoDB, MariaDB, and JPA repositories at the database level. 
+- I have worked with SQL, MySQL, MongoDB, MariaDB and JPA repositories at the database level. 
 
 👯 I have worked with Agile methodologies such as Skrum and Kanban.
 
