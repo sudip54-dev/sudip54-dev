@@ -8,7 +8,7 @@ I am a full-stack developer 👨‍💻 experienced with the development and mai
 👯 I have worked with Agile methodologies such as Skrum and Kanban.
 
 📫 You can find more information about me on:
-- Malt (https://www.malt.com/profile/sudipgiri) where I do freelance work occasionally.
+- Malt (https://www.malt.com/profile/sudipgiri).
 - LinkedIn (https://www.linkedin.com/in/sudip-giri).
 
 <!--
